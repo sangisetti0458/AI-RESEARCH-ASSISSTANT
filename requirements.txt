@@ -24,3 +24,5 @@ tensorflow
 scikit-learn
 
 pytest
+
+google-genai
