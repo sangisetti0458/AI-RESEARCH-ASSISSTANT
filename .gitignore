@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment Variables
+.env
+
+# Database
+research.db
+*.db
+*.sqlite3
+
+# ChromaDB
+data/chroma/
+
+# Logs
+logs/
+*.log
+
+# Pytest
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
